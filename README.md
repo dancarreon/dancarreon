@@ -5,10 +5,12 @@ BE
 - Spring Boot
 - Kotlin
 - Go
+- Python
 - PHP
 - C++
+- NestJS
 
-DB
+DB and ORM
 - MSSQL
 - MySQL
 - Cassandra
@@ -16,13 +18,16 @@ DB
 - PostgreSQL
 - MariaDB
 - Redis
+- MongoDB
+- Hibernate
+- Prisma
 
 FE
 - React JS
 - Next JS
 - Javascript
 - jQuery
-- CSS
+- HTML and CSS
 
 Others
 - React Native
